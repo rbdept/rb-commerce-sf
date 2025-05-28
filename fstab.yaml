@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://github.com/{org}/{site}/
+    url: https://content.da.live/rbdept/rb-commerce-sf/
     type: markup
 
 folders:
